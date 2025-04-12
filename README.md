@@ -1,5 +1,9 @@
 # CS425 Ricart-Agarwala Algorithm Simulator GUI
 
+A simulator for the Ricart-Agarwala Mutual Exclusion algorithm.
+
+Unfortunately, it makes no guarantees on the correctness of its implementation. It may contain an unholy number of bugs.
+
 ## Getting Started
 
 To run the tkinter version:
