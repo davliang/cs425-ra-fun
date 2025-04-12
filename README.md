@@ -28,6 +28,8 @@ To run the PyQT6 version (recommended):
 uv run main_qt.py
 ```
 
+Note: Most buttons, labels, fields, etc., have hints if you hover over them. They should assist in the navigation of how to use the simulator.
+
 ---
 
 Get `uv` here: <https://github.com/astral-sh/uv>
