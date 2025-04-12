@@ -4,6 +4,8 @@ A simulator for the Ricart-Agarwala Mutual Exclusion algorithm.
 
 Unfortunately, it makes no guarantees on the correctness of its implementation. It may contain an unholy number of bugs.
 
+The PyQT6 version is more refined and up-to-date. The tkinter version has a complete implementation, but it is not as refined.
+
 ## Getting Started
 
 To run the tkinter version:
