@@ -6,6 +6,14 @@ Unfortunately, it makes no guarantees on the correctness of its implementation. 
 
 The PyQT6 version is more refined and up-to-date. The tkinter version has a complete implementation, but it is not as refined.
 
+## Assumptions
+
+It makes the following assumptions about the distributed system.
+
+- All processing is instantaneous compared to actual message transfer times.
+- Time passes in discrete, integer time units.
+- No node ever crashes (too difficult to implement well).
+
 ## Getting Started
 
 To run the tkinter version:
