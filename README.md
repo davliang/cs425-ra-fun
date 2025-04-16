@@ -101,3 +101,9 @@ brew install python@3.9
 
 brew install python-tk@3.9
 ```
+
+## WSL: `Failed to create wl_display (No such File or directory)`
+
+See:
+
+- <https://github.com/microsoft/WSL/issues/12616>
