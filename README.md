@@ -34,6 +34,32 @@ Note: Most buttons, labels, fields, etc., have hints if you hover over them. The
 
 Get `uv` here: <https://github.com/astral-sh/uv>
 
+## Screenshots
+
+### Tkinter
+
+<img width="1312" alt="image" src="https://github.com/user-attachments/assets/fb13454d-b4cc-44c4-8dcf-f1adbf9b045f" />
+
+<img width="1268" alt="image" src="https://github.com/user-attachments/assets/11151e4a-df4a-41c6-89b3-6a9aeef5feef" />
+
+<img width="1312" alt="image" src="https://github.com/user-attachments/assets/4cc7b335-5b52-45bd-9821-2401cc983154" />
+
+<img width="1312" alt="image" src="https://github.com/user-attachments/assets/7d08df4d-4e54-40cb-b3e4-036d60366428" />
+
+<img width="1312" alt="image" src="https://github.com/user-attachments/assets/7ab65826-fc5a-4260-a518-267839e2cd68" />
+
+### PyQT6
+
+<img width="1012" alt="image" src="https://github.com/user-attachments/assets/11984e2b-a3d1-4ea1-90ed-9f01db390d86" />
+
+<img width="812" alt="image" src="https://github.com/user-attachments/assets/a97491cc-bf3e-4db1-af08-6eb9f668e443" />
+
+<img width="1012" alt="image" src="https://github.com/user-attachments/assets/9989fc1d-2ddf-4f00-af09-477412b0a5c3" />
+
+<img width="1012" alt="image" src="https://github.com/user-attachments/assets/854b89fc-922b-4a20-b2cb-10870c963d83" />
+
+<img width="1012" alt="image" src="https://github.com/user-attachments/assets/919c5178-4568-4aea-ac0a-6b991fe6baf3" />
+
 ## Troubleshooting
 
 ### `AttributeError: module '_tkinter' has no attribute '__file__'`
