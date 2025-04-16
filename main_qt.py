@@ -32,7 +32,7 @@ import matplotlib.pyplot as plt
 import networkx as nx
 import numpy as np
 
-from PyQt6.QtWidgets import (
+from PySide6.QtWidgets import (
     QAbstractItemView,
     QApplication,
     QDialog,
@@ -58,7 +58,7 @@ from PyQt6.QtWidgets import (
     QVBoxLayout,
     QWidget,
 )
-from PyQt6.QtCore import (
+from PySide6.QtCore import (
     Qt,
     QObject,
     QEvent,
@@ -66,7 +66,7 @@ from PyQt6.QtCore import (
     QRegularExpressionMatchIterator,
     QRegularExpressionMatch,
 )
-from PyQt6.QtGui import (
+from PySide6.QtGui import (
     QSyntaxHighlighter,
     QTextCharFormat,
     QColor,
