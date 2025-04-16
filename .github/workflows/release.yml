@@ -1,5 +1,5 @@
 name: Release Workflow
-run-name: ${{ github.actor }} is running the release workflow
+run-name: Release Artifact Build Workflow for ${{ github.event.release.tag_name }}
 on:
   release:
     types: [published]
@@ -34,7 +34,8 @@ jobs:
         run: |
           pip install . 
       
-      - name: Install Nuitka standalone dependencies
+      - name: Install Nuitka standalone dependencies (Linux)
+        if: runner.os == 'Linux'
         run: |
           sudo apt-get update
           sudo apt-get install -y patchelf
