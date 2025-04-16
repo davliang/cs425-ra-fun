@@ -62,7 +62,7 @@ Get `uv` here: <https://github.com/astral-sh/uv>
 
 ## Troubleshooting
 
-### `AttributeError: module '_tkinter' has no attribute '__file__'`
+### MacOS: `AttributeError: module '_tkinter' has no attribute '__file__'`
 
 See:
 
